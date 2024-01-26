@@ -1,2 +1,2 @@
 # Project Description
-I designed an app for neighborhood task management, employing complex data structures like ArrayLists, Sets, Maps, and Linkedlists for efficient data handling. The app seamlessly integrates Google Realtime Database, enabling real-time data updates across users and enhancing chore coordination and record-keeping within the community.
+I designed an application for members of a neighborhood community to request chores or tasks they may need help accomplishing. It is an organized way to keep track and record all tasks related to home care. The application uses complex abstract data types like ArrayLists, Sets, Maps, and Linkedlists to store and pass data, and an online database, provided by Firebase Realtime Database, is used to update all users.
